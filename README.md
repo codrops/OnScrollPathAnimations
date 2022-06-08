@@ -4,9 +4,9 @@ Animating SVG paths on smooth scroll.
 
 ![Image Title](https://tympanus.net/codrops/wp-content/uploads/2022/06/OnScrollShapeAnimation_feat.jpg)
 
-[Article on Codrops](https://tympanus.net/codrops/?p=63672)
+[Article on Codrops](https://tympanus.net/codrops/?p=63809)
 
-[Demo](http://tympanus.net/Development/OnScrollPathAnimations/)
+[Demo](https://tympanus.net/Tutorials/OnScrollPathAnimations/)
 
 
 ## Installation
