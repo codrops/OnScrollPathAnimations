@@ -28,7 +28,7 @@ paths.forEach(el => {
     const svgEl = el.closest('svg');
     const pathTo = el.dataset.pathTo;
 
-    tl = gsap.timeline({
+    gsap.timeline({
         scrollTrigger: {
             trigger: svgEl,
             start: "top bottom",
