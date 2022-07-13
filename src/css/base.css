@@ -134,6 +134,8 @@ a:focus-visible {
 	align-items: center;
 	display: flex;
 	margin-bottom: 0.5rem;
+	flex-wrap: wrap;
+	width: 14rem;
 }
 
 .frame__title-main {
@@ -159,6 +161,10 @@ a:focus-visible {
 .frame__title-back:hover svg,
 .frame__title-back:focus svg {
 	fill: var(--color-link-hover);
+}
+
+.frame__title-prev {
+	margin-top: 0.5rem;
 }
 
 .content {
